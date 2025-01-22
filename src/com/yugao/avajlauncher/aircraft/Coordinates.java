@@ -1,4 +1,4 @@
-package com.yugao.avajlauncher.aircraft;
+package com.yugao.avajlauncher.simulator;
 
 public class Coordinates {
 

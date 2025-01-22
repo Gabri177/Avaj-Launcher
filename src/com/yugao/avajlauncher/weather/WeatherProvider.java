@@ -1,6 +1,4 @@
-package com.yugao.avajlauncher.weather;
-
-import com.yugao.avajlauncher.aircraft.Coordinates;
+package com.yugao.avajlauncher.simulator;
 
 import java.util.Objects;
 

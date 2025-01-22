@@ -1,4 +1,4 @@
-package com.yugao.avajlauncher.aircraft;
+package com.yugao.avajlauncher.simulator;
 
 import com.yugao.avajlauncher.exception.InputException;
 

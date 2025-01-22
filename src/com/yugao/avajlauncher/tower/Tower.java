@@ -1,7 +1,4 @@
-package com.yugao.avajlauncher.tower;
-
-import com.yugao.avajlauncher.aircraft.Aircraft;
-import com.yugao.avajlauncher.interfaces.Flyable;
+package com.yugao.avajlauncher.simulator;
 
 import java.util.ArrayList;
 import java.util.List;
