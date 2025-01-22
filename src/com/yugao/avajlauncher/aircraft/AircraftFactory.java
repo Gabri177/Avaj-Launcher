@@ -1,7 +1,6 @@
 package com.yugao.avajlauncher.aircraft;
 
 import com.yugao.avajlauncher.exception.InputException;
-import com.yugao.avajlauncher.interfaces.Flyable;
 
 public class AircraftFactory {
 

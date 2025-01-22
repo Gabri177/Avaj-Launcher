@@ -1,4 +1,4 @@
-package com.yugao.avajlauncher.interfaces;
+package com.yugao.avajlauncher.aircraft;
 
 import com.yugao.avajlauncher.tower.WeatherTower;
 
