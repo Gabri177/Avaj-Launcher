@@ -1,8 +1,9 @@
-package com.yugao.avajlauncher.simulator;
+package com.yugao.avajlauncher.aircraft;
 
 import com.yugao.avajlauncher.exception.InputException;
+import com.yugao.avajlauncher.interfaces.Flyable;
 
-public abstract class Aircraft extends Flyable {
+public class Aircraft extends Flyable {
 
     protected long id;
     protected String name;
@@ -62,5 +63,7 @@ public abstract class Aircraft extends Flyable {
 
         this.currentWeather =  this.weatherTower.getWeather(this.coordinates);
     }
+
+    public void updateConditions(){}
 
 }

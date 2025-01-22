@@ -1,4 +1,6 @@
-package com.yugao.avajlauncher.simulator;
+package com.yugao.avajlauncher.interfaces;
+
+import com.yugao.avajlauncher.tower.WeatherTower;
 
 public abstract class Flyable {
     protected WeatherTower weatherTower;

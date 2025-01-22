@@ -1,4 +1,4 @@
-package com.yugao.avajlauncher.simulator;
+package com.yugao.avajlauncher.aircraft;
 
 import com.yugao.avajlauncher.exception.InputException;
 
@@ -10,6 +10,7 @@ public class Baloon extends Aircraft {
         super(p_id, p_name, p_coordinate);
     }
 
+    @Override
     public void updateConditions(){
 
         if (Objects.equals(this.currentWeather, "unSet"))

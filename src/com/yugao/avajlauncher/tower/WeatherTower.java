@@ -1,4 +1,7 @@
-package com.yugao.avajlauncher.simulator;
+package com.yugao.avajlauncher.tower;
+
+import com.yugao.avajlauncher.aircraft.Coordinates;
+import com.yugao.avajlauncher.weather.WeatherProvider;
 
 public class WeatherTower extends Tower {
 
