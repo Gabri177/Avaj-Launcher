@@ -52,7 +52,7 @@ public class Simulator {
             try {
                 if (Integer.parseInt(craftInfo[2]) < 0 || Integer.parseInt(craftInfo[3]) < 0 || Integer.parseInt(craftInfo[4]) < 0
                         || Integer.parseInt(craftInfo[4]) > 100)
-                throw new InputException("File Format Error: Invalid Number of Arguments Input!!!");
+                    throw new InputException("File Format Error: Invalid Number of Arguments Input!!!");
                 coordinates= new Coordinates(Integer.parseInt(craftInfo[2]), Integer.parseInt(craftInfo[3]), Integer.parseInt(craftInfo[4]));
             } catch (Exception e) {
                 throw new InputException("File Format Error: Invalid Number Input!!!");
