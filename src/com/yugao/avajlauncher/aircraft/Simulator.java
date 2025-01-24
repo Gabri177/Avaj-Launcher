@@ -4,6 +4,9 @@ import com.yugao.avajlauncher.exception.InputException;
 import com.yugao.avajlauncher.tower.WeatherTower;
 import com.yugao.avajlauncher.utils.FileOperator;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.List;
 
 public class Simulator {
@@ -11,8 +14,9 @@ public class Simulator {
     private List<String> datas;
     private int simulationTime;
     private static WeatherTower weatherTower;
+    private BufferedWriter output;
 
-    public Simulator(String filename) throws InputException {
+    public Simulator(String filename) throws InputException{
 
         if (filename == null)
             throw new InputException("File Format Error: The filename is null!!!");
@@ -28,7 +32,6 @@ public class Simulator {
         if (simulationTime < 0)
             throw new InputException("Simulation Time Error: The Simulation Time is less than 0!!!");
         datas.removeFirst();
-
 
         this.createAircrafts();
 
@@ -60,12 +63,12 @@ public class Simulator {
     }
 
     public void simulationStart() {
-        System.out.println("============ Simulation start ============");
+        //System.out.println("============ Simulation start ============");
         for (int i = 0; i < simulationTime; i++) {
             weatherTower.changeWeather();
-            System.out.println("----------SimulationTimes: " + (i + 1) + " ----------");
+            //System.out.println("----------SimulationTimes: " + (i + 1) + " ----------");
         }
-        System.out.println("============ Simulation Finished ============");
+        //System.out.println("============ Simulation Finished ============");
     }
 
 
