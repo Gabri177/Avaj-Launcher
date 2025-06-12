@@ -46,6 +46,11 @@ public class Simulator {
         }
         for (String line : datas) {
             String[] craftInfo = line.split(" ");
+            for (String info : craftInfo){
+                String temp = info.trim();
+                if (temp.isEmpty())
+                    throw new InputException("File Format Error: Argument can not be empty!!!");
+            }
             if (craftInfo.length != 5)
                 throw new InputException("File Format Error: Invalid Number of Arguments Input!!!");
             Coordinates coordinates;

@@ -1,0 +1,165 @@
+Tower says: Baloon#B1(0) registered to weather tower
+Tower says: Baloon#B2(1) registered to weather tower
+Tower says: JetPlane#J1(2) registered to weather tower
+Tower says: Helicopter#H1(3) registered to weather tower
+Tower says: Helicopter#H2(4) registered to weather tower
+Tower says: Helicopter#H3(5) registered to weather tower
+Tower says: Baloon#B3(6) registered to weather tower
+Tower says: JetPlane#J2(7) registered to weather tower
+Tower says: Helicopter#H4(8) registered to weather tower
+Baloon#B1(0): It's raining!
+Baloon#B2(1): It's sunny today!
+JetPlane#J1(2): It's sunny today!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+Helicopter#H3(5): It's raining!
+Baloon#B3(6): It's fog!
+JetPlane#J2(7): It's fog!
+Helicopter#H4(8): It's fog!
+Baloon#B1(0): It's ground!
+Tower says: Baloon#B1(0) unregistered from weather tower
+JetPlane#J1(2): It's sunny today!
+Helicopter#H1(3): It's sunny today!
+Helicopter#H2(4): It's fog!
+Helicopter#H3(5): It's sunny today!
+Baloon#B3(6): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's sunny today!
+Baloon#B2(1): It's raining!
+JetPlane#J1(2): It's sunny today!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's sunny today!
+Helicopter#H3(5): It's snow!
+Baloon#B3(6): It's snow!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+Baloon#B2(1): It's snow!
+JetPlane#J1(2): It's sunny today!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's sunny today!
+Helicopter#H3(5): It's snow!
+Baloon#B3(6): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+Baloon#B2(1): It's raining!
+JetPlane#J1(2): It's sunny today!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's sunny today!
+Helicopter#H3(5): It's snow!
+Baloon#B3(6): It's snow!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+Baloon#B2(1): It's snow!
+JetPlane#J1(2): It's sunny today!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's sunny today!
+Helicopter#H3(5): It's snow!
+Baloon#B3(6): It's ground!
+Tower says: Baloon#B3(6) unregistered from weather tower
+Helicopter#H4(8): It's raining!
+Baloon#B2(1): It's raining!
+JetPlane#J1(2): It's sunny today!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's sunny today!
+Helicopter#H3(5): It's snow!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+Baloon#B2(1): It's snow!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's sunny today!
+Helicopter#H3(5): It's snow!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+Baloon#B2(1): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's sunny today!
+Helicopter#H3(5): It's snow!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+Baloon#B2(1): It's snow!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's sunny today!
+Helicopter#H3(5): It's snow!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+Baloon#B2(1): It's ground!
+Tower says: Baloon#B2(1) unregistered from weather tower
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's sunny today!
+Helicopter#H3(5): It's snow!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+Helicopter#H3(5): It's ground!
+Tower says: Helicopter#H3(5) unregistered from weather tower
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
+JetPlane#J1(2): It's raining!
+Helicopter#H1(3): It's raining!
+Helicopter#H2(4): It's raining!
+JetPlane#J2(7): It's raining!
+Helicopter#H4(8): It's raining!
